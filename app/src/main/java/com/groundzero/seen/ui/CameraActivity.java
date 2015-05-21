@@ -28,7 +28,7 @@ import java.io.File;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+/* written by Andres Ramos */
 
 public class CameraActivity extends Activity {
 
