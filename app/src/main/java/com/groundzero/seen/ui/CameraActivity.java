@@ -28,7 +28,10 @@ import java.io.File;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-/* written by Andres Ramos */
+/* written by Andres Ramos.
+ * all the essential code for the application is here, a lot of extra classes in the project because we originally planned
+ * to take a different approach.
+ */
 
 public class CameraActivity extends Activity {
 
