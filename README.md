@@ -8,11 +8,10 @@ The pictures are upload and can be accessed at https://seenoz.tk all you have to
 Goal: 
 Create a killer photo sharing application that abides by Google Glass's design principles and "giving you what you want, when you want it, and getting out of the way." Our goal is to take the photo sharing experience to next level by making it fast, non-intrusive and extremely easy. To minimize what you have to do in the glass itself, you set your sharing preferences, public (anyone with an account can see it) or private (only friends can see it), on the website or mobile application. Then all you have to do is say "ok glass, seen", accept the picture and the rest is taken care of.   
 
+NOTE: all the essential code for the application is in the CameraActivity.java classe, a lot of extra classes in the project because we originally planned to take a different approach.
+
 NOTE: this app will not work with the code provided unless you add a -- Parse.initialize(this,"******","******"); -- to
 the SeenApplication.java file in the project. This line was excluded for security reasons.
-
-NOTE: all the essential code for the application is in the CameraActivity.java, a lot of extra classes in the project because we originally planned
- to take a different approach.
 
 #Developers
 This application was created by Ground Zero. Founded by myself and two other close friends at the State University of New York at Oswego. We are an ambitious small agile software development team with a current focus on Google Glass applications. This team the Scrum methodology to ensure that we deliver quality products in a timely fashion.
