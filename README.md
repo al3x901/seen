@@ -11,6 +11,9 @@ Create a killer photo sharing application that abides by Google Glass's design p
 NOTE: this app will not work with the code provided unless you add a -- Parse.initialize(this,"******","******"); -- to
 the SeenApplication.java file in the project. This line was excluded for security reasons.
 
+NOTE: all the essential code for the application is in the CameraActivity.java, a lot of extra classes in the project because we originally planned
+ to take a different approach.
+
 #Developers
 This application was created by Ground Zero. Founded by myself and two other close friends at the State University of New York at Oswego. We are an ambitious small agile software development team with a current focus on Google Glass applications. This team the Scrum methodology to ensure that we deliver quality products in a timely fashion.
 
