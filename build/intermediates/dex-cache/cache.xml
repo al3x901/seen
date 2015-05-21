@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\al3x901\Desktop\Seen2\app\libs\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\al3x901\Desktop\Seen2\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-d05ed74ecf6da79c1bd114dd41734b8b00a63b34.jar" />
+    </item>
+    <item
+        jar="C:\Users\al3x901\Desktop\Seen2\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\al3x901\Desktop\Seen2\app\build\intermediates\pre-dexed\debug\commons-io-2.4-e61d0ae9768cf28b92a850db327eb285369fa2b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\al3x901\Desktop\Seen2\app\libs\Parse-1.8.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56dfc827c23c1f0be64eff2ef556633ea95b16ad">
+        <dex dex="C:\Users\al3x901\Desktop\Seen2\app\build\intermediates\pre-dexed\debug\Parse-1.8.3-a8c3c20412b3c9658d9c62489c1858e294d3b585.jar" />
+    </item>
+
+</items>
